@@ -10,5 +10,5 @@
 - 파일 - 노트 열기(Ctrl-O)를 선택하고 Github에서 불러오기를 선택한 후 Github URL 주소 창에 data-labs/python-machine-learning를 입력하면 예제 노트북 파일을 하나씩 불러와 실행할 수 있다
 
 ## 교재
-- [파이썬을 배우는 머신러닝](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156000440&orderClick=LAG&Kc=)
+- [파이썬으로 배우는 머신러닝/김화종/홍릉과학출판사](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156000440&orderClick=LAG&Kc=)
 
